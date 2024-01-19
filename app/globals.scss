@@ -16,6 +16,30 @@
   }
 }
 
-*{
-  
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// FONTS
+
+//kanit
+@font-face {
+  font-family: 'kanit';
+  src: url('/assets/fonts/Kanit/Kanit-light.ttf');
+}
+
+.kanit {
+  font-family: 'kanit';
+}
+
+//Original_Surfer
+@font-face {
+  font-family: 'Original_Surfer';
+  src: url('/assets/fonts/Original_Surfer/OriginalSurfer-Regular.ttf');
+}
+
+.surfer {
+  font-family: 'Original_Surfer';
 }
