@@ -12,7 +12,7 @@ model Guest {
   lastName  String
   firstName String?
   address   String
-  zip       Int
+  zip       String
   city      String
-  phone     Int?
+  phone     String?
 }

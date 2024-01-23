@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 
 const FraisKm = () => {
   return (
-    <div className="">
+    <div>
       <p className="">Frais Km</p>
     </div>
   );

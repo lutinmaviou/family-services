@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 
 const Recap = () => {
   return (
-    <div className="">
+    <div>
       <p className="">Recap</p>
     </div>
   );

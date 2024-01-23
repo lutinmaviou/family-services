@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 
 const Clients = () => {
   return (
-    <div className="">
+    <div>
       <p className="">Clients</p>
     </div>
   );
